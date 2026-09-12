@@ -1,0 +1,11 @@
+{
+  "title": "Populus",
+  "description": "This platform analyzes current global trends and dynamics to provide insights into future developments, empowering users to make informed decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
