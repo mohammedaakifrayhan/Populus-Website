@@ -93,7 +93,7 @@ export default function App() {
           The future is uncertain. We believe it can still be understood.
         </p>
 
-        <p style={{ marginBottom: "3rem", lineHeight: "1.65", fontSize: "1rem" }}>
+        <p style={{ marginBottom: "0.5rem", lineHeight: "1.65", fontSize: "1rem" }}>
           Our mission is to understand where the world is going.
         </p>
 
