@@ -97,6 +97,10 @@ export default function App() {
           Our mission is to understand where the world is going.
         </p>
 
+        <p style={{ marginBottom: "3rem", lineHeight: "1.65", fontSize: "1rem" }}>
+          Our mission is to create revolutionary software.
+        </p>
+
         <div style={{ display: "flex", alignItems: "center", gap: "1.5rem", marginBottom: "2rem" }}>
           <a
             href="https://x.com/ryhn_pwr"
